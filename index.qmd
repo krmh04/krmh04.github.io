@@ -1,0 +1,31 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/Photo.jpg"
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/kmh_dev
+    - icon: github
+      text: Github
+      href: https://github.com/krmh04
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/krmh04/
+    - icon: envelope
+      text: Email
+      href: "mailto:sportdev.ksj8g@simplelogin.com"  
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+Hey there, I am K.R Mahaadevan.
+I am someone who loves data and analyzing it and I strive in creating a positive impact to solve the society's problems through tech.
+
+I am currently a student at IIIT- Bangalore studying for a Masters Degree in Digital Society.
+ 
+

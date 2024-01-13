@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "About me",
+    "section": "",
+    "text": "As a student of Digital Society, I am passionate towards creating digital solutions that have a positive impact on the society.I completed my Bachelor of Science degree in Information Technology from CHARUSAT University.\nI am deeply interested in statistical analysis mainly in the fields of governance and urban mobility."
+  },
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum vitae",
+    "section": "",
+    "text": "Download current CV"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to my website!",
+    "section": "",
+    "text": "Twitter\n  \n  \n    \n     Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\nWelcome to my website!\nHey there, I am K.R Mahaadevan. I am someone who loves data and analyzing it and I strive in creating a positive impact to solve the society’s problems through tech.\nI am currently a student at IIIT- Bangalore studying for a Masters Degree in Digital Society."
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Code\n\nDeveloped a web application to quickly summarize large blocks of text and videos/podcasts\nIt also allows the user to summarize the text from web links as well as from locally uploaded PDF files.\nUsed the Open AI API and Deepgram API for summarizing/transcribing the text and the Courier Email API to send emails"
+  },
+  {
+    "objectID": "projects/index.html#explainai-python-streamlitdeta-space",
+    "href": "projects/index.html#explainai-python-streamlitdeta-space",
+    "title": "Projects",
+    "section": "",
+    "text": "Code\n\nDeveloped a web application to quickly summarize large blocks of text and videos/podcasts\nIt also allows the user to summarize the text from web links as well as from locally uploaded PDF files.\nUsed the Open AI API and Deepgram API for summarizing/transcribing the text and the Courier Email API to send emails"
+  },
+  {
+    "objectID": "projects/index.html#geoconnect-mongodbexpress.jsreactnode.js",
+    "href": "projects/index.html#geoconnect-mongodbexpress.jsreactnode.js",
+    "title": "Projects",
+    "section": "GeoConnect | MongoDB,Express.js,React,Node.js",
+    "text": "GeoConnect | MongoDB,Express.js,React,Node.js\nCode\n\nDeveloped a web application enabling users to mark their places of interest or visited locations on the world map\nStored/Fetched the data of the users using the MongoDB Atlas platform"
+  }
+]
