@@ -1,7 +1,11 @@
 ---
 title: Projects
 ---
+## Rural Karnataka Schools Dropout Analysis |R 
+  <a href="https://github.com/krmh04/Karnataka-Rural-Secondary-Schools-Analysis" target="_blank">Code</a><br>    
 
+- Performed an extensive analysis of dropout rate in rural secondary schools of Karnataka using a Fixed effects model to control for time-invariant factors.
+- Involved identifying key factors related to the school infrastructure affecting the dropout rate ,predicting the future dropout rate and suggesting policy measures to reduce them.
 ## ExplainAI | Python, Streamlit,Deta Space
 
   <a href="https://github.com/krmh04/ExplainAI" target="_blank">Code</a><br>    
@@ -13,7 +17,6 @@ title: Projects
  
  
 
-----
 
 ## GeoConnect | MongoDB,Express.js,React,Node.js
 
