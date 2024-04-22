@@ -54,9 +54,6 @@ project:
     watch-inputs: true
     navigate: true
 
-execute:
-  freeze: auto
-
 format:
   html:
     fontsize: 1.1em
