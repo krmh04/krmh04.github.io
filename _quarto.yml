@@ -53,6 +53,8 @@ project:
     browser: true
     watch-inputs: true
     navigate: true
+execute:
+  freeze: true
 
 format:
   html:

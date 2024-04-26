@@ -4,7 +4,7 @@
     "href": "about/index.html",
     "title": "About me",
     "section": "",
-    "text": "As a student of Digital Society, I am passionate towards creating digital solutions that have a positive impact on the society.I completed my Bachelor of Science degree in Information Technology from CHARUSAT University.\nI am deeply interested in statistical analysis mainly in the fields of governance and urban mobility."
+    "text": "As a student of Digital Society, I am passionate towards creating digital solutions that have a positive impact on the society.I completed my Bachelor of Science degree in Information Technology from Charotar University of Science and Technology.\nI am deeply interested in statistical analysis to identify patterns, and provide meaningful recommendations that address real-world challenges."
   },
   {
     "objectID": "cv/index.html",
@@ -25,7 +25,7 @@
     "href": "projects/index.html",
     "title": "Projects",
     "section": "",
-    "text": "Code\n\nDeveloped a web application to quickly summarize large blocks of text and videos/podcasts\nIt also allows the user to summarize the text from web links as well as from locally uploaded PDF files.\nUsed the Open AI API and Deepgram API for summarizing/transcribing the text and the Courier Email API to send emails"
+    "text": "Code\n\nPerformed an extensive analysis of dropout rate in rural secondary schools of Karnataka using a Fixed effects model to control for time-invariant factors.\nInvolved identifying key factors related to the school infrastructure affecting the dropout rate ,predicting the future dropout rate and suggesting policy measures to reduce them. ## ExplainAI | Python, Streamlit,Deta Space\nCode\nDeveloped a web application to quickly summarize large blocks of text and videos/podcasts\nIt also allows the user to summarize the text from web links as well as from locally uploaded PDF files.\nUsed the Open AI API and Deepgram API for summarizing/transcribing the text and the Courier Email API to send emails"
   },
   {
     "objectID": "projects/index.html#explainai-python-streamlitdeta-space",
@@ -40,5 +40,12 @@
     "title": "Projects",
     "section": "GeoConnect | MongoDB,Express.js,React,Node.js",
     "text": "GeoConnect | MongoDB,Express.js,React,Node.js\nCode\n\nDeveloped a web application enabling users to mark their places of interest or visited locations on the world map\nStored/Fetched the data of the users using the MongoDB Atlas platform"
+  },
+  {
+    "objectID": "projects/index.html#rural-karnataka-schools-dropout-analysis-r",
+    "href": "projects/index.html#rural-karnataka-schools-dropout-analysis-r",
+    "title": "Projects",
+    "section": "",
+    "text": "Code\n\nPerformed an extensive analysis of dropout rate in rural secondary schools of Karnataka using a Fixed effects model to control for time-invariant factors.\nInvolved identifying key factors related to the school infrastructure affecting the dropout rate ,predicting the future dropout rate and suggesting policy measures to reduce them. ## ExplainAI | Python, Streamlit,Deta Space\nCode\nDeveloped a web application to quickly summarize large blocks of text and videos/podcasts\nIt also allows the user to summarize the text from web links as well as from locally uploaded PDF files.\nUsed the Open AI API and Deepgram API for summarizing/transcribing the text and the Courier Email API to send emails"
   }
 ]
