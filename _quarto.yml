@@ -1,9 +1,8 @@
-# This file controls the settings for your Quarto template from www.marvinschmitt.com
 
 # website settings
 website:
-  title: "K.R Mahaadevan"                                # Your name
-  description: ""   # A brief slogan (optional)
+  title: "K.R Mahaadevan"                           
+  description: ""   
   image: img/Photo.jpg
   
   favicon: img/favicon.png
@@ -12,30 +11,29 @@ website:
   navbar:
     pinned: true
      
-    # your sub-pages
     left:
       - text: "About Me"
         href: about/index.qmd
       - text: "Projects"
         href: projects/index.qmd
+      - text: "Blog"
+        href: blog/index.qmd
       - text: "CV"
         href: cv/index.qmd
     
-    # your social media handles
     right:
       - icon: github
         href: https://www.github.com/krmh04
-      - icon: twitter
-        href: https://twitter.com/kmh_dev
       - icon: linkedin
         href: https://www.linkedin.com/in/krmh04
+      - icon: twitter
+        href: https://twitter.com/kmh_dev
       - icon: envelope
         aria-label: email
         href: "mailto:sportdev.ksj8g@simplelogin.com"  
   
   
 
-# Don't touch unless you know what you are doing :) ------------
   search: 
     location: navbar
     type: textbox

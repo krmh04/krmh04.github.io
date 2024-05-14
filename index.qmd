@@ -2,20 +2,7 @@
 about:
   template: jolla
   id: about-block
-  image: "img/Photo.jpg"
-  links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/kmh_dev
-    - icon: github
-      text: Github
-      href: https://github.com/krmh04
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/krmh04/
-    - icon: envelope
-      text: Email
-      href: "mailto:sportdev.ksj8g@simplelogin.com"  
+  image: "img/Photo.jpg" 
 ---
 
 ::: {#about-block}

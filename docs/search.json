@@ -18,7 +18,7 @@
     "href": "index.html",
     "title": "Welcome to my website!",
     "section": "",
-    "text": "Twitter\n  \n  \n    \n     Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\nWelcome to my website!\nHey there, I am K.R Mahaadevan. I am someone who loves data and analyzing it and I strive in creating a positive impact to solve the society’s problems through tech.\nI am currently a student at IIIT- Bangalore studying for a Masters Degree in Digital Society."
+    "text": "Welcome to my website!\nHey there, I am K.R Mahaadevan. I am someone who loves data and analyzing it and I strive in creating a positive impact to solve the society’s problems through tech.\nI am currently a student at IIIT- Bangalore studying for a Masters Degree in Digital Society."
   },
   {
     "objectID": "projects/index.html",
@@ -47,5 +47,40 @@
     "title": "Projects",
     "section": "",
     "text": "Code\n\nPerformed an extensive analysis of dropout rate in rural secondary schools of Karnataka using a Fixed effects model to control for time-invariant factors.\nInvolved identifying key factors related to the school infrastructure affecting the dropout rate ,predicting the future dropout rate and suggesting policy measures to reduce them."
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog posts",
+    "section": "",
+    "text": "WasteNot\n\n\n\n\n\n\n\ndesign\n\n\nuser research\n\n\n\n\nA solution to connect consumers and recyclers for responsible e-waste.\n\n\n\n\n\n\nMay 2024\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/wastenot.html",
+    "href": "blog/wastenot.html",
+    "title": "WasteNot",
+    "section": "",
+    "text": "As part of a semester long course project in the Social Complexities and Systems Thinking course, along with Vanshvardhan Singh\n\nBackground\nE-waste, or electronic waste, refers to discarded electronic devices,smartphones, and other appliances. The improper disposal of such waste can lead to harmful effects on the environment around us as well as on human health. When e-waste is improperly disposed in landfills, toxic substances such as lead,mercury can leach into the soil and water,contaminating the ecosystem(Fathima,2023).\n\n\nWhat was our objective?\nAs students in Bangalore/Electronic City,we witnessed that a lot of electronic waste is generated in the city and the city ranks third in the country and so,we sought out to understand the management of electronic waste disposal in and around Electronic City,and to understand people’s approach towards disposing of e-waste.\n\n\nWhat methodology did we adopt?\nA mixed approach using qualitative and quantitative research was adopted by us.\nA survey was rolled out to understand how e-waste is disposed of and managed by consumers(students) at IIIT-B, and 30 responses were obtained.\nWe also conducted a total of 17 interviews with different stakeholders, including consumers(13)[students, security staff], a formal recycler (1), Institute IT Management (1), and NGOs (2), to understand the problems surrounding the disposal of e-waste\n\n\nFig 1: The different stakeholders in e-waste management\n\n\n\nWhat did we learn?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFig 2 & 3: Awareness about e-waste recycling\n\nOur most major learning was people are not aware about the not aware about the correct method of disposal process of electronic items and the process after the waste is collected as well.\n\n\nUnderstanding the problem\nWe adopted a soft system methodology(Reynolds,2011) approach in order to understand the problematic situation and identify a solution for it.\n“Soft systems methodology (SSM) is an approach for tackling problematical, messy situations of all kinds. It is an action-oriented process of inquiry into problematic situations in which users learn their way from finding out about the situation,to taking action to improve it(Checkland & Poulter,2010).”\n\n\n\n\n\n\n\n\n\nFig 4: The Root definition\n\n\n\nOur proposed solution\nBased on the soft systems approach, we identified the need for awareness among people about e-waste and a means for them to connect with formal recyclers, and thus, have proposed the following solution:\n\n\nA solution to allow consumers to dispose e-waste from the comfort of their homes and also ensure formal recyclers get connected with the consumers to take up the e-waste\n\n\n\n\n\n\n\nFig 5: Design mock up of the proposed solution\n\nWe make use of ONDC, an initiative by the Government of India to promote an open e-commerce network. It create an inclusive e-commerce environment and gives the consumer freedom to choose their desired store to recycle their e-waste.\nUser Features\n\nThe application allows users to sell e-waste for cash and in-app points.\nUsers can also take quizzes to boost their awareness about electronic waste, and earn in-app points.\nUsers can redeem these points on gift-cards\n\nRecycler Features\n\nThe recycler can provide a list of items they are ready to take from consumers\nThe recycler can modify the list of items by adding and removing them\nThey can also view the order status and modify the order status\n\nTo view the complete design file,please click here!\n\n\nReferences\n\nReynolds, M (2011). Bells that still can ring: systems thinking in practice. In: Tait, Andrew and Richardson, Kurt eds. Moving Forward with Complexity: Proceedings of the 1st International Workshop on Complex Systems Thinking and Real World Applications. Litchfield Park, AZ: Emergent Publications, 327 349.\nFathima, I. (2023, November 22). Citizens’ organisations join forces for sustainable disposal of ewaste. Bangalore Mirror. https://bangaloremirror.indiatimes.com/bangalore/others/citizensorganisations-join-forces-for-sustainable-disposal-of-e-waste/articleshow/105395294.cms\nCheckland , P., & Poulter , J. (2010). Soft systems methodology. In Systems approaches to managing change: A practical guide (pp. 191 242). Springer London."
+  },
+  {
+    "objectID": "blog/wastenot.html#easier-to-write-and-publish",
+    "href": "blog/wastenot.html#easier-to-write-and-publish",
+    "title": "WasteNot",
+    "section": "",
+    "text": "E-waste, or electronic waste, refers to discarded electronic devices,smartphones, and other appliances. The improper disposal of such waste can lead to harmful effects on the environment around us as well as on human health. When e-waste is improperly disposed in landfills, toxic substances such as lead,mercury can leach into the soil and water,contaminating the ecosystem"
+  },
+  {
+    "objectID": "blog/wastenot.html#background",
+    "href": "blog/wastenot.html#background",
+    "title": "WasteNot",
+    "section": "Background",
+    "text": "Background\nE-waste, or electronic waste, refers to discarded electronic devices,smartphones, and other appliances. The improper disposal of such waste can lead to harmful effects on the environment around us as well as on human health. When e-waste is improperly disposed in landfills, toxic substances such as lead,mercury can leach into the soil and water,contaminating the ecosystem.\n\nWhat was our objective?\nAs students in Bangalore/Electronic City,we witnessed that a lot of electronic waste is generated in the city and the city ranks third in the country and so,we sought out to understand the management of electronic waste disposal in and around Electronic City,and to understand people’s approach towards disposing of e-waste.\n\n\nWhat methodology did we adopt?\nA mixed approach using qualitative and quantitative research was adopted by us.\nA survey was rolled out to understand how e-waste is disposed of and managed by consumers(students) at IIIT-B, and 30 responses were obtained.\nWe also conducted a total of 17 interviews with different stakeholders, including consumers(13)[students, security staff[, a formal recycler (1), Institute IT Management (1), and NGOs (2), to understand the problems surrounding the disposal of e-waste\n\n\nFig 1: The different stakeholders in e-waste management\n\n\n\nWhat did we learn?\n\n\n\n \n\n\n\n\nFig 2: Awareness about e-waste recycling\n\nOur most major learning was people are not aware about the not aware about the correct method of disposal process of electronic items and the process after the waste is collected as well."
+  },
+  {
+    "objectID": "blog/wastenot.html#what-was-our-objective",
+    "href": "blog/wastenot.html#what-was-our-objective",
+    "title": "WasteNot",
+    "section": "What was our objective?",
+    "text": "What was our objective?\nAs students in Bangalore/Electronic City,we witnessed that a lot of electronic waste is generated in the city and the city ranks third in the country and so,we sought out to understand the management of electronic waste disposal in and around Electronic City,and to understand people’s approach towards disposing of e-waste.\n\nWhat methodology did we adopt?\nA mixed approach using qualitative and quantitative research was adopted by us.\nA survey was rolled out to understand how e-waste is disposed of and managed by consumers(students) at IIIT-B, and 30 responses were obtained.\nWe also conducted a total of 17 interviews with different stakeholders, including consumers(13)[students, security staff[, a formal recycler (1), Institute IT Management (1), and NGOs (2), to understand the problems surrounding the disposal of e-waste\n\n\nFig 1: The different stakeholders in e-waste management\n\n\n\nWhat did we learn?\n\n\n\n \n\n\n\n\nFig 2: Awareness about e-waste recycling\n\nOur most major learning was people are not aware about the not aware about the correct method of disposal process of electronic items and the process after the waste is collected as well."
   }
 ]
