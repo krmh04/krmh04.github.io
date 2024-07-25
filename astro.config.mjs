@@ -5,6 +5,5 @@ import tailwind from "@astrojs/tailwind";
 
 export default defineConfig({
   site: 'https://krmh04.github.io',
-  base: '/krmh04.github.io',
   integrations: [mdx(), sitemap(), tailwind()],
 });
