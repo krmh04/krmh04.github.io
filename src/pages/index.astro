@@ -39,30 +39,42 @@ const work = await Promise.all(
       <section>
         <article class="space-y-4">
           <p class="animate" style="text-align: justify;">
-            I am currently a second year student at IIIT- Bangalore studying for a Masters Degree in Digital Society.
-
-            I love discovering data everywhere and analyzing it. Besides that, I am a sports aficionado and always curious about geography, flags, and all things tech!
-            
+            I am currently a second-year student at IIIT-Bangalore, pursuing a Master’s degree in Digital Society. I am passionate about leveraging data to uncover meaningful patterns and creating digital solutions that positively impact society. With a background in Information Technology from Charotar University of Science and Technology, I have a keen interest in blending UX research with statistical analysis to understand user behaviors and provide actionable recommendations for real-world challenges.
+          
           </p>
           <p style="text-align: justify;">
-            As a student of Digital Society, I am passionate towards creating digital solutions that have a positive impact on the society.I completed my Bachelor of Science degree in Information Technology from Charotar University of Science and Technology.
-             
-            I am deeply interested in statistical analysis to identify patterns, and provide meaningful recommendations that address real-world challenges.            
+           
+              In addition to my academic pursuits, I have contributed and co-authored three op-ed articles in <i><b>The Hindu Business Line</b></i>, contributing insights on the Indian Telecom Spectrum Auctions. I enjoy designing user-friendly interfaces that combine qualitative and quantitative methods to deliver impactful solutions. Outside of work, I am a sports aficionado with a deep curiosity for geography, flags, and all things tech! 
           </p>
         
         
         </article>
       </section>
 
-     
+      <section class="animate space-y-6">
+        <div class="flex flex-wrap gap-y-2 items-center justify-between">
+          <h5 class="font-semibold text-black dark:text-white">
+            Latest work
+          </h5>
+          <Link href="/blog">
+            See all posts
+          </Link>
+        </div>
+        <ul class="flex flex-col gap-4">
+          {blog.map(post => (
+            <li>
+              <ArrowCard entry={post} />
+            </li>
+          ))}
+        </ul>
+      </section>
 
       <section class="animate space-y-4">
         <h5 class="font-semibold text-black dark:text-white">
 Let's connect :)        </h5>
         <article>
           <p>
-            If you want to get in touch with me about something or just to say hi,
-            reach out on social media or send me an email.
+            If you’d like to connect with me for opportunities or simply to say hello, feel free to reach out via social media or email.
           </p>
 
           <p style="font-weight: bold;">Find my <Link href="/cv.pdf">CV</Link> here for more info! </p>
