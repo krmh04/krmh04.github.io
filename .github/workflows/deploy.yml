@@ -25,7 +25,10 @@ jobs:
         with:
           # path: . # The root location of your Astro project inside the repository. (optional)
           # node-version: 20 # The specific version of Node that should be used to build your site. Defaults to 20. (optional)
-          package-manager: pnpm@latest # The Node package manager that should be used to install dependencies and build your site. Automatically detected based on your lockfile. (optional)
+          # Pin the major version: pnpm-lock.yaml is lockfileVersion 6.0, which
+          # pnpm 10 rejects (ERR_PNPM_BROKEN_LOCKFILE). pnpm@latest would also
+          # silently change build behaviour between deploys.
+          package-manager: pnpm@8
 
   deploy:
     needs: build
