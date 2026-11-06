@@ -1,0 +1,32 @@
+#!/bin/sh
+# Pre-push build check.
+#
+# Catches syntax errors and accidentally corrupted files (e.g. a shell
+# command pasted into a .ts file) BEFORE they reach GitHub and break the
+# deploy workflow.
+#
+# Enable once per clone:
+#   git config core.hooksPath .githooks
+#
+# Bypass for a known-good urgent push:
+#   git push --no-verify
+
+# Dependency-free clones: don't block the push, just warn.
+if [ ! -d node_modules ]; then
+  echo "pre-push: node_modules not found, skipping build check" >&2
+  exit 0
+fi
+
+echo "pre-push: building site to verify it compiles..." >&2
+if ! npm run build >/tmp/pre-push-build.log 2>&1; then
+  echo "" >&2
+  echo "pre-push: BUILD FAILED - push aborted." >&2
+  echo "---------- last 40 lines ----------" >&2
+  tail -n 40 /tmp/pre-push-build.log >&2
+  echo "----------------------------------" >&2
+  echo "Fix the errors above, or use 'git push --no-verify' to bypass." >&2
+  exit 1
+fi
+
+echo "pre-push: build OK" >&2
+exit 0

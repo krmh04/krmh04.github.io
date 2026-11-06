@@ -1,0 +1,27 @@
+# Normalize line endings ------------------------------------------------
+# Store every text file as LF and check out LF on all platforms, so a
+# Windows editor writing CRLF can no longer create whole-file diffs.
+* text=auto eol=lf
+
+# Lockfiles: keep them text and LF so diffs stay readable
+package-lock.json text eol=lf
+pnpm-lock.yaml    text eol=lf
+
+# Scripts must never carry CR
+*.sh text eol=lf
+
+# Binary assets: never convert, never attempt a text diff --------------
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.gif  binary
+*.ico  binary
+*.webp binary
+*.pdf  binary
+*.woff binary
+*.woff2 binary
+*.ttf  binary
+*.otf  binary
+*.eot  binary
+*.mp4  binary
+*.zip  binary
